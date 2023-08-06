@@ -1,3 +1,7 @@
+### Article: 
+https://hackernoon.com/how-to-manage-state-in-nextjs-13-using-redux-toolkit
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
